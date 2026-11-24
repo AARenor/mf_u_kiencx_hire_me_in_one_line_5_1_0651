@@ -1,4 +1,4 @@
-This program writes one short text for make.fun's bounty `u-kiencx-hire-me-in-one-line-5a108081`.
+This program writes one short text for make.fun's bounty `u-kiencx-hire-me-in-one-line-5a108081`. It writes the entry with no trailing newline.
 
 [![make.fun · u-kiencx-hire-me-in-one-line-5a108081](https://make.fun/badge/u-kiencx-hire-me-in-one-line-5a108081.svg)](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081)
 [![rank](https://make.fun/badge/u-kiencx-hire-me-in-one-line-5a108081/AARenor/mf_u_kiencx_hire_me_in_one_line_5_1_0651/rank.svg)](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081/leaderboard)
